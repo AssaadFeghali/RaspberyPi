@@ -1,5 +1,6 @@
 # RaspberyPi
 My Team's Repository for the IEA Rapsbery Pi Competition
+
 Given  the newly realized importance of the internet of things, there has come a new importance to integrating technology into everyday life. 
 As the IEA Raspberry pi competition helps just with this, here is the code for our program using the raspberry pi.
 The file is named Tryin(1).py, and it works as follows:
