@@ -61,11 +61,13 @@ def prog(data,timing): #Function containing the actual identifying of Bluetooth 
 
                     position=str(values).find(str(address))#Searches for any common devices amongst the perceived devices and those on the server
                     print (position)
-                    
+                    position = position - 3
                     n=position%22 #Position returns an integer which represents the position of the first starting character of the address
                                   #Each address takes up about 22 character spaces
                                   #When looking up the item in the list, its list number must be found, which is its position relative to its character number
-                                  #hence it is position divided 22 
+                                  #hence it is position divided 22
+                                  
+                                  
                     final_integer=int(math.floor(n))#This would return a decimal, thus we need the closest integer rounded down
                                                     #We take the math.floor value of the decimal n
                     print (final_integer)
@@ -108,12 +110,3 @@ if (inpt==False):#Starts the program
     prog(data,timing)
     
 GPIO.cleanup()             
- 
-                                   
-
-       
-            
-     
-              
-    
-
