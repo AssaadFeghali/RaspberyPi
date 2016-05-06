@@ -1,4 +1,4 @@
-# RaspberyPi
+# RaspberryPi: MANARA
 My Team's Repository for the IEA Rapsbery Pi Competitions
 
 After the Arab Spring, especially the ongoing conflict in Syria, over 4.6 million Syrians have become refugees, with nearly half of them being children. A main issue with such mass displacements is the continuation of children’s education after leaving their homes due to conflict. In fact, international organizations such as UNICEF and UNHCR have made it their goal to provide refugee children with this education. However, given the uncertainty of these children’s circumstances and the unpredictability of camp life, it may be difficult for such organizations to properly monitor the regularity of these refugees receiving an education. 
